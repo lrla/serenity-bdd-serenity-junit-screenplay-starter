@@ -13,3 +13,4 @@ Recomendações:
 - Utilizar o Intellij IDE
 - Executar sempre os testes via terminal, com permissões de administrador.
 - Manter sempre as versões de serenity-version iguais no **build.gradle**
+- Alguns erros podem ocorrer devido a versão do JDK, optei por utilizar o JDK 11.
