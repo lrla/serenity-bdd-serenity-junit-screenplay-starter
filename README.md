@@ -1,2 +1,15 @@
-# serenity-bdd-serenity-junit-screenplay-starter
-Serenity BDD + Cucumber + Selenium + Gradle
+**Projeto de Estudo de Serenity BDD + Cucumber + Selenium.**
+
+- Para executar os testes utilize o comando:
+
+**gradle clean test --scan**
+
+- Para dúvidas referentes a arquitetura acesse:
+
+https://serenity-bdd.github.io/docs/tutorials/first_test
+
+Recomendações:
+
+- Utilizar o Intellij IDE
+- Executar sempre os testes via terminal, com permissões de administrador.
+- Manter sempre as versões de serenity-version iguais no **build.gradle**
