@@ -1,5 +1,9 @@
 **Projeto de Estudo de Serenity BDD + Cucumber + Selenium.**
 
+Antes de iniciar, certifique-se de ter configurado o gradle em sua máquina e adicionado nas variáveis de ambiente o caminho.
+1. Baixar o gradle 8.7 (https://gradle.org/install/) e deixá-lo em C:\
+2. Editar variáveis de ambiente > Path, adicionar o caminho: C:\Gradle\gradle-8.7\bin
+   
 - Para executar os testes utilize o comando:
 
 **gradle clean test --scan**
