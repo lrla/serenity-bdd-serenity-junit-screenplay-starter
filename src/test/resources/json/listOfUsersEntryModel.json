@@ -1,0 +1,20 @@
+{
+  "listOfUsersEntry" : [
+    {
+      "nombre": "Teste",
+      "apellido": "Automatizado 01",
+      "correo_electronico": "leticia.andradecc@gmail.com",
+      "contrasena": "Automation2024#",
+      "repita_contrasena": "Automation2024#",
+      "isUsed": false
+    },
+    {
+      "nombre": "Teste",
+      "apellido": "Automatizado 02",
+      "correo_electronico": "invalid.emailgmail.com",
+      "contrasena": "Automation2024#",
+      "repita_contrasena": "Automation2024#",
+      "isUsed": false
+    }
+  ]
+}

@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "starter.stepdefinitions",
         snippets = CucumberOptions.SnippetType.CAMELCASE,
-        tags = "@pse"
+        tags = "@pse2"
 )
 public class CucumberTestSuite {
 }
